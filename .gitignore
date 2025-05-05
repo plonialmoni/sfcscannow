@@ -1,3 +1,11 @@
 *.zip
-*.tar*
-
+*.tar
+node_modules/
+*.swp
+*.log
+venv/
+.env
+.DS_Store
+build/
+dist/
+target/
